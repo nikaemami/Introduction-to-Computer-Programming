@@ -22,7 +22,7 @@ If the ball is released from a height of 50 meters and b is equal to 0.4, after 
 
 In one of the middle floors of the building, the boy's mother stands on the edge of a window at a height of w from the ground and watches the outside.
 
-Calculate the number of times the ball passes in front of Asghar's mother's eyes. (Note that the mother only sees balls that are higher than the window.)
+Calculate the number of times the ball passes in front of the mother's eyes. (Note that the mother only sees balls that are higher than the window.)
 
 The conditions for this problem are as below:
 
@@ -32,9 +32,9 @@ The conditions for this problem are as below:
 
 3. The decimal number of w must be less than h.
 
-If any of the above conditions were not met, the number -1, and otherwise print the number of times the ball passes in front of the mother's eyes.
+If any of the above conditions were not met, the number -1, and otherwise print the **number of times the ball passes in front of the mother's eyes**.
 
-
+<img src="2.png" width="300" height="50">
 
 
 
