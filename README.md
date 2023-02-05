@@ -12,6 +12,9 @@ A test case for input and output is as below:
 
 <img src="1.png" width="350" height="150">
 
+The flowchart and the codes of this problem are attached.
+
+
 <h2>Problem 2:</h2>
 
 A boy is playing on the roof of a multi-story building with a height of h. Since he is a playful child, he constantly runs here and there and plays with his ball. In one moment, his ball is released from the edge of the roof towards the ground. After each impact, the ball loses some of its energy and after each impact, its height decreases by a constant factor. We represent this coefficient with b.
@@ -36,6 +39,7 @@ If any of the above conditions were not met, the number -1, and otherwise print 
 
 <img src="2.png" width="300" height="50">
 
+The flowchart and the codes of this problem are attached.
 
 
 
